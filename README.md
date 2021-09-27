@@ -20,6 +20,6 @@
       <a href="https://api.whatsapp.com/send?phone=+55(11)961965795&text=Opaa,%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
  
-  ![Snake animation](https://github.com/rafaballerini/renatogirao/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renatogirao/renatogirao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
