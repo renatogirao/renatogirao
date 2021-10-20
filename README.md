@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando com desenvolvimento iOS
 - <img align="center" img height="22em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> Estudando Swift
-- 📫 Contato: (11)96196-5795 
+- 📫  Contato: (11)96196-5795 
 
 
 <div>
